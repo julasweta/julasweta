@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! <br/> I'm Svitlana, a Fullstack developer from <img src="https://w1.pngwing.com/pngs/70/570/png-transparent-national-day-ukraine-flag-of-ukraine-day-of-the-national-flag-flag-day-yellow-electric-blue.png" alt="Ukraine Flag" width="13"/> <b>Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" alt="Lviv Flag" width="13"/> <b>Lviv</b>. </p>
+<p>Welcome to my page! <br/> I'm Svitlana, a Fullstack developer from <img src="https://w1.pngwing.com/pngs/70/570/png-transparent-national-day-ukraine-flag-of-ukraine-day-of-the-national-flag-flag-day-yellow-electric-blue.png" alt="Ukraine Flag" width="13"/> <b>Ukraine</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Coat_of_arms_of_Lviv.svg/1607px-Coat_of_arms_of_Lviv.svg.png" alt="Lviv Flag" width="13"/> <b>Lviv</b>. </p>
 
 
 
