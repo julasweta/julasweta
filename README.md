@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Svitlana, Fullstack developer from <[img src="https://cdn-icons-png.flaticon.com/512/197/197560.png](https://upload.wikimedia.org/wikipedia/commons/f/fd/FlagMap_of_Ukraine.png)" width="13"/> <b>Ukraine</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Lviv</b>. </p>
+<p>Welcome to my page! </br> I'm Svitlana, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/FlagMap_of_Ukraine.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Lviv</b>. </p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
