@@ -33,7 +33,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/julasweta/school-okten"><b>School-okten</b></a></td>
+      <td><a href="[https://github.com/julasweta/school-okten](https://github.com/julasweta/react-dashboard-starter-kit)"><b>React-Dashboard-Starter-Kit)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/julasweta/school-okten?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/julasweta/school-okten?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/julasweta/school-okten?style=flat-square&labelColor=343b41"/></td>
