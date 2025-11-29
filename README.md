@@ -77,10 +77,5 @@ Tech: React + TypeScript + Tailwind + Chart.js · Modular structure · Routing �
 
 ---
 
-### 🔥 Coming up
 
-✔ Project screenshots & GIF preview  
-✔ CI/CD build status badge  
-✔ More project showcases  
-✔ Tech write-ups and development insights  
 
