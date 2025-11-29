@@ -1,50 +1,150 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">👋 Привіт, я — Svitlana</h1>
+<h3 align="center">Fullstack Developer · React · NestJS · TypeScript</h3>
 
-
-<p>Welcome to my page! <br/> I'm Svitlana, a Fullstack developer from <img src="https://w1.pngwing.com/pngs/70/570/png-transparent-national-day-ukraine-flag-of-ukraine-day-of-the-national-flag-flag-day-yellow-electric-blue.png" alt="Ukraine Flag" width="13"/> <b>Ukraine</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Coat_of_arms_of_Lviv.svg/1607px-Coat_of_arms_of_Lviv.svg.png" alt="Lviv Flag" width="13"/> <b>Lviv</b>. </p>
-
-
-
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<p align="center">
+  Розробляю веб-додатки з сучасними технологіями, люблю чистий код, архітектурну логіку та UI з хорошим UX.  
+  Працюю з повним циклом розробки — від ідеї, api та бази даних до інтерфейсу користувача та деплою у продакшн.
 </p>
-<h3>The project I am currently working on</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-  <td>
-    <a href="https://github.com/julasweta/react-dashboard-starter-kit">
-      <b>React-Dashboard-Starter-Kit</b>
-    </a>
-  </td>
-  <td><img alt="Stars" src="https://img.shields.io/github/stars/julasweta/react-dashboard-starter-kit?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Forks" src="https://img.shields.io/github/forks/julasweta/react-dashboard-starter-kit?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Issues" src="https://img.shields.io/github/issues/julasweta/react-dashboard-starter-kit?style=flat-square&labelColor=343b41"/></td>
-  <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/julasweta/react-dashboard-starter-kit?style=flat-square&labelColor=343b41"/></td>
-</tr>
 
-  
-  </tbody>
+---
+
+### 🚀 Tech Stack
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="NestJs" src="https://img.shields.io/badge/NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/NodeJS-2c8b3f?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+---
+
+### 📌 Мій активний проєкт
+
+<table>
+<thead align="center">
+<tr>
+  <th>🔗 Проєкт</th>
+  <th>⭐ Stars</th>
+  <th>📚 Forks</th>
+  <th>🛎 Issues</th>
+  <th>📬 Pull Requests</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><a href="https://github.com/julasweta/react-dashboard-starter-kit"><b>React Dashboard Starter Kit</b></a></td>
+  <td><img src="https://img.shields.io/github/stars/julasweta/react-dashboard-starter-kit?style=flat-square"/></td>
+  <td><img src="https://img.shields.io/github/forks/julasweta/react-dashboard-starter-kit?style=flat-square"/></td>
+  <td><img src="https://img.shields.io/github/issues/julasweta/react-dashboard-starter-kit?style=flat-square"/></td>
+  <td><img src="https://img.shields.io/github/issues-pr/julasweta/react-dashboard-starter-kit?style=flat-square"/></td>
+</tr>
+</tbody>
 </table>
+
+<p>
+📄 Starter kit для швидкого створення дашбордів та адмін-панелей. 
+React + TypeScript + Tailwind + Chart.js, модульна структура, компоненти, роутінг, прод-білд.
+</p>
+
+---
+
+### 📫 Контакти
+
+<p>
+  <a href="https://www.linkedin.com/in/svitlana-horynska/">
+    <img src="https://img.shields.io/badge/LinkedIn-Svitlana%20Horynska-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+💬 Відкрита до вакансій та співпраці — буду рада поговорити 🙂
+
+---
+
+### 🧩 Далі додам
+
+✔ GIF-демо проєкту  
+✔ CI/CD badge статусів  
+✔ Скріни та preview UI  
+✔ Showcase з 2–3 проєктами в README
+
+<h1 align="center">👋 Hi, I'm Svitlana</h1>
+<h3 align="center">Full-Stack Developer · React · NestJS · TypeScript</h3>
+
+<p align="center">
+  I build web applications with modern technologies — from backend architecture and API layers
+  to polished user interfaces and deploy-ready production builds.
+  I enjoy clean code, scalable structure and thoughtful UI/UX.
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="NestJs" src="https://img.shields.io/badge/NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/NodeJS-2c8b3f?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+---
+
+### 📌 Active Project
+
+<table>
+<thead align="center">
+<tr>
+  <th>🔗 Project</th>
+  <th>⭐ Stars</th>
+  <th>📚 Forks</th>
+  <th>🛎 Issues</th>
+  <th>📬 Pull Requests</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><a href="https://github.com/julasweta/react-dashboard-starter-kit"><b>React Dashboard Starter Kit</b></a></td>
+  <td><img src="https://img.shields.io/github/stars/julasweta/react-dashboard-starter-kit?style=flat-square"/></td>
+  <td><img src="https://img.shields.io/github/forks/julasweta/react-dashboard-starter-kit?style=flat-square"/></td>
+  <td><img src="https://img.shields.io/github/issues/julasweta/react-dashboard-starter-kit?style=flat-square"/></td>
+  <td><img src="https://img.shields.io/github/issues-pr/julasweta/react-dashboard-starter-kit?style=flat-square"/></td>
+</tr>
+</tbody>
+</table>
+
+<p>
+📄 A starter kit for building dashboards and admin panels.  
+Tech: React + TypeScript + Tailwind + Chart.js · Modular structure · Routing · Production-ready build.
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/svitlana-horynska/">
+    <img src="https://img.shields.io/badge/LinkedIn-Svitlana%20Horynska-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+💬 Open to collaboration, interesting projects and new opportunities.
+
+---
+
+### 🔥 Coming up
+
+✔ Project screenshots & GIF preview  
+✔ CI/CD build status badge  
+✔ More project showcases  
+✔ Tech write-ups and development insights  
 
